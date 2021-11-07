@@ -1,4 +1,4 @@
-<!-- TODO: incorporate a logo of some sort here -->
+![Renaissance Guy Logo](logo.svg)
 
 [![License][license-image]][license-url]
 
