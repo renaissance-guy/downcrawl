@@ -8,9 +8,9 @@ In Downcrawl, you explore a series of Volumes—points of interest in a vast and
 
 ## Folk
 
-- [Hexagrams](folk/hexagrams)
+- [Allos](folk/allos)
+- [Brachions](folk/brachions)
 - [Humphunters](folk/humphunters)
-- [Megamorphs](folk/megamorphs)
 - [Smoothones](folk/smoothones)
 
 ## Volumes
