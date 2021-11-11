@@ -17,7 +17,7 @@ Some say the buildings of the City look alive. Others say they *are* alive. If y
 
 Wide canals, glowing with miniature luminescent life, flow through the City, between the buildings, and toward the City's center. Narrow walkways, slick with moisture and growth, follow alongside the canals with an occasional bridge over or set of stairs down to, the water.
 
-Not far outside—and on opposite sides of—the City, the [Allos](#allos) and the [Brachion](#brachion) live in tents and pavilions pitched along the shores of two of the widest rivers that flow into and between the dark towers of the City. Both groups believe the City to be a holy site and send pilgrims to bathe in the living water of the Everpool at the center of the city.
+Not far outside—and on opposite sides of—the City, the [Allos](#allos) and the [Brachion](#brachion) live in tents and pavilions pitched along the shores of two of the widest rivers that flow into and between the dark towers of the City. Both groups believe the City to be a holy site and send pilgrims to bathe in the living water of the Everpool at the center of the City.
 
 The Brachion are crude, uncivilized, and understand perfectly that they are superior to the mutated and mishappen Allos. The Allos, taciturn and surly, have no words and no patience for the uncouth Brachions. More than just pilgrims, both sides send warriors into the City. Conflict is common. The dark flow of blood is often added to the glowing flow of water between the strange towers.
 
@@ -29,26 +29,17 @@ All of the canals in the City ultimately come to a single, central, and perfectl
 
 Bathing in the water induces deeply meaningful hallucinations and creates a random Fungal Effect. However, there is risk as the current is strong and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer willing swim in the waters of the Everpool.
 
-## More Places
-
-### Cave of Knowledge
-
-Wise and telepathic Fungi share their knowledge with those who make the proper sacrifice.
-
-### Fairy Circles
-
-Rings of Fungi found throughout the canyons said to make magic more wild—inhibiting, amplifying, and randomizing its effects.
-
 ## Folk
 
 ### Allos
 
-**Basic Concept**: Disgusted by Brachions, Worship Fungus,  
-**Appearance**: Huge, Hybrids and mutants,  
+**Basic Concept**: Disgusted by Brachions, Worship Fungus  
+**Appearance**: Huge, Hybrids and mutants  
 **Reputation**: Dour, Introspective  
 
-The memory of enslavement by the Brachion is mostly gone but lives on in a general disgust of them. The Allos see them as unclean, untained by the beautiful fungus from whic the Allos derive their hideous mutations.
+Standing over 12 feet tall, the Allos are massive, mishapen, and mutated due to the toxic Fungi they worhipfully smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holiest of holys. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituallity, they are laconic and impatient with others.
 
+The Allos were once the slaves of the Brachions, whom they regard as unclean. To the Allos, a Brachion bathing in the sacred pool is blasphemous.
 
 ### Brachion
 
@@ -58,15 +49,32 @@ The memory of enslavement by the Brachion is mostly gone but lives on in a gener
 
 The Brachion are hairless, humanoid, and have six-arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tatoos that contrast starkly with their ebony black skin.
 
-A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live a primative tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of a coming two-armed Godking who will unite their scattered people, defeat their enemies, and usher in a new age.
+A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live a primative tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of two-armed Godking who will arise from the Everpool to unite their scattered people, defeat their enemies, and usher in a new age.
 
+## People
 
-## More People
+### Ji-rab
+Mute leader of the Brachions. She communicates using Fuzz.
 
-### Jirab
-
-Mute leader of the Brachions.
+### Son-rab
+Mystic who has amputated four of his arms—three on the right and one on the left—believing he is the Godking. Frequently bathes in the Everpool. Could he be the one?
 
 ### Ormon
+Outcast Allos heretic trying to bring peace between the Allos and the Brachions. He has more supporters than believed.
 
-Outcast Allos heretic trying to bring peace between the Allos and the Brachions.
+### Umatrum
+High priest of the Allos camp. Very knowledgable about Fungi. Seeks someone brave (or foolish) to seek a particularly hard to find Fungus.
+
+## Places
+
+### Cave of Knowledge
+Wise and telepathic Fungi share their knowledge with those who make the proper sacrifice. The Allos would believe this place holy if they knew of it.
+
+### Fungal Circles
+Rings of Fungi found throughout the canyons said to make magic less predicatable—inhibiting, amplifying, and randomizing its effects.
+
+### The Narrows
+Narrow, shoreless flows with dangerous rapids. A predator lurks nearby.
+
+### Hermit Falls
+Box canyon with numerous and voluminous falls pouring over the edge. A deaf hermit of another Folk lives here.
