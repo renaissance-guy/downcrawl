@@ -37,9 +37,9 @@ Bathing in the water induces deeply meaningful hallucinations and creates a rand
 **Appearance**: Huge, Hybrids and mutants  
 **Reputation**: Dour, Introspective  
 
-Standing over 12 feet tall, the Allos are massive, mishapen, and mutated due to the toxic Fungi they worhipfully smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holiest of holys. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituallity, they are laconic and impatient with others.
+Standing over 12 feet tall, the Allos are massive, misshapen, and mutated due to the toxic Fungi they worshipfully  smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holy of holies. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituality, they are laconic and impatient with others.
 
-The Allos were once the slaves of the Brachions, whom they regard as unclean. To the Allos, a Brachion bathing in the sacred pool is blasphemous.
+The Allos were once the slaves of the Brachions, whom they regard as unclean. To the Allos, Brachion bathing in the sacred pool is blasphemous.
 
 ### Brachion
 
@@ -47,9 +47,9 @@ The Allos were once the slaves of the Brachions, whom they regard as unclean. To
 **Appearance**: Arms (many), Memories (long)  
 **Reputation**: Decadent, Uncivilized  
 
-The Brachion are hairless, humanoid, and have six-arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tatoos that contrast starkly with their ebony black skin.
+The Brachion are hairless, humanoid, and have six arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tattoos that contrast starkly with their ebony black skin.
 
-A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live a primative tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of two-armed Godking who will arise from the Everpool to unite their scattered people, defeat their enemies, and usher in a new age.
+A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live as primitive tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of a two-armed God-king who will arise from the Everpool to unite their scattered people, defeat their enemies, and usher in a new age.
 
 ## People
 
@@ -57,13 +57,13 @@ A once great Folk—ruling an empire that spanned Volumes—they have fallen in 
 Mute leader of the Brachions. She communicates using Fuzz.
 
 ### Son-rab
-Mystic who has amputated four of his arms—three on the right and one on the left—believing he is the Godking. Frequently bathes in the Everpool. Could he be the one?
+Mystic who has amputated four of his arms—three on the right and one on the left—believing he is the prophesized God-king. Frequently bathes in the Everpool. Could he be the one?
 
 ### Ormon
 Outcast Allos heretic trying to bring peace between the Allos and the Brachions. He has more supporters than believed.
 
 ### Umatrum
-High priest of the Allos camp. Very knowledgable about Fungi. Seeks someone brave (or foolish) to seek a particularly hard to find Fungus.
+High priest of the Allos camp. Very knowledgeable about Fungi. Seeks someone brave (or foolish) to seek a particularly hard-to-find Fungus.
 
 ## Places
 
@@ -71,7 +71,7 @@ High priest of the Allos camp. Very knowledgable about Fungi. Seeks someone brav
 Wise and telepathic Fungi share their knowledge with those who make the proper sacrifice. The Allos would believe this place holy if they knew of it.
 
 ### Fungal Circles
-Rings of Fungi found throughout the canyons said to make magic less predicatable—inhibiting, amplifying, and randomizing its effects.
+Rings of Fungi found throughout the canyons said to make magic less predictable—inhibiting, amplifying, and randomizing its effects.
 
 ### The Narrows
 Narrow, shoreless flows with dangerous rapids. A predator lurks nearby.
