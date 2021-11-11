@@ -17,19 +17,17 @@ Some say the buildings of the City look alive. Others say they *are* alive. If y
 
 Wide canals, glowing with miniature luminescent life, flow through the City, between the buildings, and toward the City's center. Narrow walkways, slick with moisture and growth, follow alongside the canals with an occasional bridge over or set of stairs down to, the water.
 
-Not far outside—and on opposite sides of—the City, the [Allos](../folk/allos.md) and the [Brachion](../folk/brachions.md) live in tents and pavilions pitched along the shores of two of the widest rivers that flow into and between the dark towers of the City. The Allos and the Brachions both believe the City to be a holy site and send pilgrims to bathe in the living water of the Everpool at the center of the city.
+Not far outside—and on opposite sides of—the City, the [Allos](#allos) and the [Brachion](#brachion) live in tents and pavilions pitched along the shores of two of the widest rivers that flow into and between the dark towers of the City. Both groups believe the City to be a holy site and send pilgrims to bathe in the living water of the Everpool at the center of the city.
 
-The Brachion are crude, uncivilized, and understand perfectly that they are superior to the mutated and mishappen Allos. The Allos, taciturn and surly, have no words and no patience for the uncouth Brachions. More than pilgrims, both sides send warriors into the City. Conflict is common. The dark flow of blood is often added to the flow of water between the strange towers.
+The Brachion are crude, uncivilized, and understand perfectly that they are superior to the mutated and mishappen Allos. The Allos, taciturn and surly, have no words and no patience for the uncouth Brachions. More than just pilgrims, both sides send warriors into the City. Conflict is common. The dark flow of blood is often added to the glowing flow of water between the strange towers.
 
 ## Touchstone
 
 ### The Everpool
 
-All of the canals in the City ultimately come to a single, central, and perfectly circular reservoir hundreds of feet in diameter. The walkways terminate at an enormous, stepped quay ringing the Everpool. Bridges connect the ring where the canals enter. Various colors of glow flow and merge at the edges of the Everpool, speckled with bright motes. 
+All of the canals in the City ultimately come to a single, central, and perfectly circular reservoir hundreds of feet in diameter. The walkways terminate at an enormous, stepped quay ringing the Everpool inviting visitors to enter. Bridges connect the ring where the canals enter. Various colors of glow flow and merge at the edges of the Everpool, speckled with bright motes. At the center is a hole in the water where a calm yet powerful laminar flow takes from the reservoir what the canals put in, dumping it beyond sight into unknowable depths.
 
-At the center there is a hole in the water where a calm yet powerful laminar flow takes from the reservoir what the canals put in, dumping it beyond sight into unknowable depths.
-
-Bathing in the water induces powerful and meaningful hallucinations and creates a random Fungal Effect. However, there is risk involved as the current is strong, and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer willing swim in the waters of the Everpool.
+Bathing in the water induces deeply meaningful hallucinations and creates a random Fungal Effect. However, there is risk as the current is strong and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer willing swim in the waters of the Everpool.
 
 ## More Places
 
@@ -39,17 +37,29 @@ Wise and telepathic Fungi share their knowledge with those who make the proper s
 
 ### Fairy Circles
 
-Rings of Fungi found throughout the canyons said to make magic more wild, inhibiting, amplifying, and randomizing its effects.
+Rings of Fungi found throughout the canyons said to make magic more wild—inhibiting, amplifying, and randomizing its effects.
 
 ## Folk
 
 ### Allos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultrices diam quam, et laoreet ex dignissim ac. Etiam vel diam id est venenatis gravida. Donec risus arcu, suscipit ut sapien vitae, tincidunt ullamcorper nunc. Praesent vulputate massa ut lorem iaculis, at dapibus lacus pharetra. Vestibulum est odio, mattis in egestas non, molestie sit amet odio. Cras sodales congue gravida. Curabitur id tellus sed ligula pulvinar imperdiet. Proin sit amet efficitur massa. Proin vitae urna blandit, accumsan ante at, rutrum neque. Ut ipsum neque, malesuada sed est et, sollicitudin pretium elit. Nulla nec mattis metus, ut feugiat turpis. Aenean tincidunt, nulla ut elementum finibus, lacus nibh dignissim urna, id scelerisque nisl neque id purus. Mauris a interdum turpis. Nunc sagittis tortor sed lectus mattis, non condimentum libero imperdiet.
+**Basic Concept**: Disgusted by Brachions, Worship Fungus,  
+**Appearance**: Huge, Hybrids and mutants,  
+**Reputation**: Dour, Introspective  
+
+The memory of enslavement by the Brachion is mostly gone but lives on in a general disgust of them. The Allos see them as unclean, untained by the beautiful fungus from whic the Allos derive their hideous mutations.
+
 
 ### Brachion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultrices diam quam, et laoreet ex dignissim ac. Etiam vel diam id est venenatis gravida. Donec risus arcu, suscipit ut sapien vitae, tincidunt ullamcorper nunc. Praesent vulputate massa ut lorem iaculis, at dapibus lacus pharetra. Vestibulum est odio, mattis in egestas non, molestie sit amet odio. Cras sodales congue gravida. Curabitur id tellus sed ligula pulvinar imperdiet. Proin sit amet efficitur massa. Proin vitae urna blandit, accumsan ante at, rutrum neque. Ut ipsum neque, malesuada sed est et, sollicitudin pretium elit. Nulla nec mattis metus, ut feugiat turpis. Aenean tincidunt, nulla ut elementum finibus, lacus nibh dignissim urna, id scelerisque nisl neque id purus. Mauris a interdum turpis. Nunc sagittis tortor sed lectus mattis, non condimentum libero imperdiet.
+**Basic Concept**: Feel superior to Allos, Legends speak of a great leader  
+**Appearance**: Arms (many), Memories (long)  
+**Reputation**: Decadent, Uncivilized  
+
+The Brachion are hairless, humanoid, and have six-arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tatoos that contrast starkly with their ebony black skin.
+
+A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live a primative tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of a coming two-armed Godking who will unite their scattered people, defeat their enemies, and usher in a new age.
+
 
 ## More People
 
