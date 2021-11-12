@@ -25,7 +25,7 @@ The Brachion are crude, uncivilized, and understand perfectly that they are supe
 
 ### The Everpool
 
-All of the canals in the City ultimately come to a single, central, and perfectly circular reservoir hundreds of feet in diameter. The walkways terminate at an enormous, stepped quay ringing the Everpool inviting visitors to enter. Bridges connect the ring where the canals enter. Various colors of glow flow and merge at the edges of the Everpool, speckled with bright motes. At the center is a hole in the water where a calm yet powerful laminar flow takes from the reservoir what the canals put in, dumping it beyond sight into unknowable depths.
+All of the canals in the City ultimately come to a single, central, and perfectly circular reservoir hundreds of feet in diameter. The walkways terminate at an enormous, stepped quay ringing the Everpool and inviting visitors to enter. Bridges connect the ring where the canals enter. Various colors of glow flow and merge at the edges of the Everpool, speckled with bright motes. At the center is a hole in the water where a calm yet powerful laminar flow takes from the reservoir what the canals put in, dumping it beyond sight into unknowable depths.
 
 Bathing in the water induces deeply meaningful hallucinations and creates a random Fungal Effect. However, there is risk as the current is strong and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer willing swim in the waters of the Everpool.
 
@@ -37,7 +37,7 @@ Bathing in the water induces deeply meaningful hallucinations and creates a rand
 **Appearance**: Huge, Hybrids and mutants  
 **Reputation**: Dour, Introspective  
 
-Standing over 12 feet tall, the Allos are massive, misshapen, and mutated due to the toxic Fungi they worshipfully  smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holy of holies. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituality, they are laconic and impatient with others.
+Standing over 12 feet tall, the Allos are massive, misshapen, and mutated due to the toxic Fungi they worshipfully smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holy of holies. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituality, they are laconic and impatient with others.
 
 The Allos were once the slaves of the Brachions, whom they regard as unclean. To the Allos, Brachion bathing in the sacred pool is blasphemous.
 
