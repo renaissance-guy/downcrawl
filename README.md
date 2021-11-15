@@ -10,13 +10,10 @@ In Downcrawl, you explore a series of Volumes—points of interest in a vast and
 
 - [Allos](folk/allos)
 - [Brachions](folk/brachions)
-- [Humphunters](folk/humphunters)
-- [Smoothones](folk/smoothones)
 
 ## Volumes
 
 - [Canyon Falls](volumes/canyon-falls)
-- [Crystal Shoals](volumes/crystal-shoals)
 
 ## License and Credits
 
