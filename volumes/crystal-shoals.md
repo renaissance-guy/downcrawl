@@ -1,7 +1,7 @@
 Crystal Shoals
 ==============
 
-Lots of folk, but no one stays. Just passing through. All the winding caverns are filled with water, inches or feet, but none particulary deep. Veins of ore run through the walls, there are many flooded mines, everyone lives in the grottos, which are universally speckled with common and semi-precious gems. And the occasional precious one. Life is everywhere but it's all incomprehensibly alien and threatening. Tentacle trees, furry fish with too many (or not enough) fins, flying balls of tentacles flapping to maintain lift, colorful ferns that shreik in the wind. Stick to the boards that make up the roads through these soggy caves.
+Lots of folk, but no one stays. Just passing through. All the winding caverns are filled with water, inches or feet, but none particulary deep. Veins of ore run through the walls, there are many flooded mines, everyone lives in the grottos, which are universally speckled with common and semi-precious gems. And the occasional precious one. Life is everywhere but it's all incomprehensibly alien and threatening. Tentacle trees, furry fish with too many (or not enough) fins, flying balls of cellia flapping to maintain lift, colorful ferns that shreik in the wind. Stick to the boards that make up the roads through these soggy caves.
 
 **Themes**: Crossroads, Profoundly Weird  
 **Terrain**: Gem-studded Grottos, Veins of Ore  

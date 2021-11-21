@@ -3,11 +3,11 @@ Frostdale
 
 **Penitent worhip at a secluded monastery in the heart of a frigid fungal forest.**
 
-**Themes**: Great City, University
-**Terrain**: Fungal Jungle, River System
-**Abundant**: Fungi, Drugs
-**Scarce**: Leaders, Heat
-**Remoteness**: Sheltered
+**Themes**: Great City, University  
+**Terrain**: Fungal Jungle, River System  
+**Abundant**: Fungi, Drugs  
+**Scarce**: Leaders, Heat  
+**Remoteness**: Sheltered  
 
 A network of icy rivers flows through these cold, high caves. The hoary growth is particulary dense here despite the cold—especially on the stony banks of the rivers. Luminescent Fungi radiate their frosty glow into narrow and overgrown paths that wind through their luminous fecundity. The cavernous ceilings are lost to darkness above the glow of the forest and—though well lit—the winding paths and thick growth combine with the looming dark to make Frostdale feel claustrophobic.
 
