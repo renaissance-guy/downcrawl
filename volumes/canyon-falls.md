@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Canyon Falls"
+---
+
 Canyon Falls
 ============
 

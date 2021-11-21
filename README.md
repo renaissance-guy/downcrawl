@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Compendium"
+---
+
 ![Renaissance Guy Logo](logo.svg)
 
 [![License][license-image]][license-url]
