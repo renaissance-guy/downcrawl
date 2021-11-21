@@ -5,11 +5,12 @@ title:  "Compendium"
 
 ![Renaissance Guy Logo](logo.svg)
 
-[![License][license-image]][license-url]
+Renaissance Guy's Compendium of the Down
+========================================
 
 [Downcrawl][downcrawl-url] is an amazingly imaginative sandbox RPG setting put together by [Aaron A. Reed][aaron-a-reed-url]. It's freely available online and licensed under Creative Commons, but you should [buy it][downcrawl-buy-url] anyways as Aaron's work is worthy of the support.
 
-In Downcrawl, you explore a series of Volumes—points of interest in a vast and endless underground—and meet Folk—the weird occupants of those Volumes. This repository contains Volumes and Folk of my creation. You are free to incorporate them into your own games, be they Downcrawls or just a good ol' fashioned dungeoncrawl. And you can even use them in your own products. See [the license](#license-and-credit) below.
+In Downcrawl, you explore a series of Volumes—points of interest in a vast and endless underground—and meet Folk—the weird occupants of those Volumes. This compendium contains Volumes and Folk of my creation. You are free to incorporate them into your own games, be they Downcrawls or just a good ol' fashioned dungeoncrawl. And you can even use them in your own products. See [the license](#license-and-credit) below.
 
 ## Folk
 
