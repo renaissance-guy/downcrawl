@@ -26,13 +26,11 @@ Not far outside—and on opposite sides of—the City, the [Allos](#allos) and t
 
 The Brachion are crude, uncivilized, and understand perfectly that they are superior to the mutated and mishappen Allos. The Allos, taciturn and surly, have no words and no patience for the uncouth Brachions. More than just pilgrims, both sides send warriors into the City. Conflict is common. The dark flow of blood is often added to the glowing flow of water between the strange towers.
 
-## Touchstone
-
-### The Everpool
+## The Everpool
 
 All of the canals in the City ultimately come to a single, central, and perfectly circular reservoir hundreds of feet in diameter. The walkways terminate at an enormous, stepped quay ringing the Everpool and inviting visitors to enter. Bridges connect the ring where the canals enter. Various colors of glow flow and merge at the edges of the Everpool, speckled with bright motes. At the center is a hole in the water where a calm yet powerful laminar flow takes from the reservoir what the canals put in, dumping it beyond sight into unknowable depths.
 
-Bathing in the water induces deeply meaningful hallucinations and creates a random Fungal Effect. However, there is risk as the current is strong and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer willing swim in the waters of the Everpool.
+Bathing in the water induces deeply meaningful hallucinations and creates a random Fungal Effect. However, there is risk as the current is strong and the hole in the water is impossibly deep. Only the brave, the foolish, or the true believer dare swim in the waters of the Everpool.
 
 ## Folk
 

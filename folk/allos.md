@@ -25,4 +25,3 @@ Think grumpy old man. Doesn't want to be bothered. Perfectly fine neighbors but 
 ## Relationship with the Brachion
 
 Hatred and disgust. The Brachions are arrogrant, aggressive, and still view Allos as subcreatures. While Allos won't go out of their way to use violence against one, if they are in their space, they also won't hesitate. See the Brachions as unclean.
-
