@@ -37,7 +37,7 @@ Bathing in the water induces deeply meaningful hallucinations and creates a rand
 **Appearance**: Huge, Hybrids and mutants  
 **Reputation**: Dour, Introspective  
 
-Standing over 12 feet tall, the Allos are massive, misshapen, and mutated due to the toxic Fungi they worshipfully smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holy of holies. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituality, they are laconic and impatient with others.
+Standing over 12 feet tall, the [Allos](../folk/allos) are massive, misshapen, and mutated due to the toxic Fungi they worshipfully smoke. Fungi of all forms are holy to them, but the Fungal infusions of the Everpool are the holy of holies. Bathing there is a pilgrimage that all Allos are expected to make at least once in their lives. More interested in inner spirituality, they are laconic and impatient with others.
 
 The Allos were once the slaves of the Brachions, whom they regard as unclean. To the Allos, Brachion bathing in the sacred pool is blasphemous.
 
@@ -47,7 +47,7 @@ The Allos were once the slaves of the Brachions, whom they regard as unclean. To
 **Appearance**: Arms (many), Memories (long)  
 **Reputation**: Decadent, Uncivilized  
 
-The Brachion are hairless, humanoid, and have six arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tattoos that contrast starkly with their ebony black skin.
+The [Brachion](../folk/brachion) are hairless, humanoid, and have six arms that they famously use to wield multiple knives in combat. Their history—personal, familial, and cultural—is literally written on their bodies in white tattoos that contrast starkly with their ebony black skin.
 
 A once great Folk—ruling an empire that spanned Volumes—they have fallen in power and prominence and now live as primitive tribes scattered across the Down. Their former servants, the Allos, are still looked down upon. Brachion legend tells of a two-armed God-king who will arise from the Everpool to unite their scattered people, defeat their enemies, and usher in a new age.
 
