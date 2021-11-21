@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Crystal Shoals"
+---
+
 Crystal Shoals
 ==============
 

@@ -1,5 +1,10 @@
-Brachion
-========
+---
+layout: default
+title:  "Brachions"
+---
+
+Brachions
+=========
 
 **Tattooed, six-armed warriors who await the coming of their God-king.**
 
