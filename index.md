@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Compendium"
+title:  "Home"
 ---
 
 ![Renaissance Guy Logo](logo.svg)
