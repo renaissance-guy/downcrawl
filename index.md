@@ -5,6 +5,8 @@ title:  "Compendium"
 
 ![Renaissance Guy Logo](logo.svg)
 
+[![License][license-image]][license-url]
+
 Renaissance Guy's Compendium of the Down
 ========================================
 
@@ -17,8 +19,6 @@ In Downcrawl, you explore a series of Volumes—points of interest in a vast and
 - [Allos](folk/allos)
 - [Brachions](folk/brachions)
 
-## Characters
-
 ## Volumes
 
 - [Acheronia](volumes/acheronia)
@@ -27,8 +27,6 @@ In Downcrawl, you explore a series of Volumes—points of interest in a vast and
 - [Crystal Shoals](volumes/crystal-shoals)
 - [Dyrhalla](volumes/dyrhalla)
 - [Frostdale](volumes/frostdale)
-
-## Locations
 
 ## License and Credits
 
