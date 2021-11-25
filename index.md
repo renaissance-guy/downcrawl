@@ -1,9 +1,7 @@
 ---
 layout: default
-title:  "Home"
+title:  "Compendium of the Down"
 ---
-
-![Renaissance Guy Logo](logo.svg)
 
 Compendium of the Down
 ======================
@@ -34,12 +32,7 @@ Based on [_Downcrawl_][downcrawl-url] by [Aaron A. Reed][aaron-a-reed-url] licen
 
 Thanks for the awesome and imaginative work, Aaron! Perhaps someday we can enjoy a cup of tea together.
 
-[![License][license-image]][license-url]
-
 <!-- links and whatnot -->
-
-[license-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-[license-url]: http://creativecommons.org/licenses/by-sa/4.0/
 
 [downcrawl-url]: https://downcrawl.textories.com/
 [downcrawl-buy-url]: https://www.drivethrurpg.com/product/278571/Downcrawl
