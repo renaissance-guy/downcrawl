@@ -35,6 +35,6 @@ p strong:only-child {
   font-style: italic;
 }
 
-p strong {
+p strong:not(:only-child) {
   font-variant: small-caps;
 }
