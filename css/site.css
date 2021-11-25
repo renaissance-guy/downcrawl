@@ -6,6 +6,15 @@
   font-family: 'Lora', serif;
 }
 
+a { 
+  color: #a52a2a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 body {
   background-color: #ffffff;
   color: #1a1921;
