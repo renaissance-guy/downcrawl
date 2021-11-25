@@ -22,13 +22,15 @@ body {
   width: 1080px;
 }
 
+header {
+  margin-bottom: 3em;
+}
+
 h1 {
   font-family: 'Inknut Antiqua', serif;
   font-variant: small-caps;
   font-size: 3em;
   border-bottom: 2px solid #7f7f7f;
-  text-align: center;
-  margin-top: 0;
 }
 
 h2 {
@@ -42,10 +44,18 @@ h3 {
 }
 
 p strong:only-child {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-style: italic;
 }
 
 p strong:not(:only-child) {
   font-variant: small-caps;
+}
+
+p, li {
+  font-size: 1.2em;
+}
+
+p {
+  text-align: justify;
 }
