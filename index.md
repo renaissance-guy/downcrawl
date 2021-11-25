@@ -5,10 +5,8 @@ title:  "Home"
 
 ![Renaissance Guy Logo](logo.svg)
 
-[![License][license-image]][license-url]
-
-Renaissance Guy's Compendium of the Down
-========================================
+Compendium of the Down
+======================
 
 [Downcrawl][downcrawl-url] is an amazingly imaginative sandbox RPG setting put together by [Aaron A. Reed][aaron-a-reed-url]. It's freely available online and licensed under Creative Commons, but you should [buy it][downcrawl-buy-url] anyways as Aaron's work is worthy of the support.
 
@@ -35,6 +33,8 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 Based on [_Downcrawl_][downcrawl-url] by [Aaron A. Reed][aaron-a-reed-url] licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Thanks for the awesome and imaginative work, Aaron! Perhaps someday we can enjoy a cup of tea together.
+
+[![License][license-image]][license-url]
 
 <!-- links and whatnot -->
 
