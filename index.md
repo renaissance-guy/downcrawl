@@ -11,14 +11,12 @@ In Downcrawl, you explore a series of Volumes—points of interest in a vast and
 
 - [Allos](folk/allos)
 - [Brachions](folk/brachions)
+- [Fitherskant](folk/fitherskant)
+- [Hutan](folk/hutan)
 
 ## Volumes
 
-- [Acheronia](volumes/acheronia)
 - [Canyon Falls](volumes/canyon-falls)
-- [Crystal Sea](volumes/crystal-sea)
-- [Crystal Shoals](volumes/crystal-shoals)
-- [Dyrhalla](volumes/dyrhalla)
 - [Frostdale](volumes/frostdale)
 
 ## License and Credits
