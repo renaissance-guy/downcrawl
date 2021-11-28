@@ -18,19 +18,26 @@ A network of icy rivers flows through these cold, high caves. The hoary growth i
 
 The rivers—the main way Folk travel through this Volume—are rocky, sluggish, and navigable. Small, open boats, piloted by Hutan boatfolk, ferry people and goods up and down the rivers—stopping at the occasional village or town. And, of course, at the city of Somphos.
 
-City is a walled city, without a rampart. Fungus pushing right up to the edge. Inside, is a maze as much as the forest outside is with narrow streets, tall buildings, and torch-lit streets. Many Hutan work at the docks. Drugs are very common, as are a wide variety of Fungi. Some Hutan forage for Fungi and sell wild varieties in wet markets in the city.
+Somphos is a walled city built and occupied by the Fitherskant. The wall serves not for defense from attack—for it has no rampart—but instead to keep the press of the Fungi at bay. The forest pushes right up to the very walls, growing even in the cracks and joints of the massive granite blocks that encompass the city.
 
-The de facto rulers of the city are the Allos, but the current Rex is a distracted and indulgant individual. The city is, for the most part, unmanaged.
+Within the walls Somphos is a torch-lit maze of narrow streets and tall buildings, making the city and claustrophobic as the forest. In the streets and cramped public houses, Fitherskant can be found working and reveling at all hours.
 
-Who also make all the drugs. Series of larg caverns, rivers flowing through them. Fungi everywhere. 
+The Allos are common in Somphos, and in all of the towns and villages within Frostdale. They collect Fungi, render them into Drugs, and use them either in prayer or turn a tidy profit. Drugs are easily found in Frostdale, particularly in Somphos, sold by Allos initiates and opportunists.
+
+Most Hutan live a simple and tribal existence in the fungal forest where they forage, hunt wild beasts, and look for a place to lay their eggs. Some live in villages and towns, farming Fungi and raising beasts that they trade for scarce and made things from Somphos. And a few go to Somphos itself, either sell their farmed and foraged produce in bush markets or as servants of the Fitherskant.
+
+The Fitherskant exploit the Hutan, using them to produce anything not made of stone or metal. In Somphos, Hutan work the docks, work the markets, and work to serve the Fitherskant.
+
+## Somphos Docks
+
+- outside of the city
+- natural lake with wooden docks, boardwalk leading to the city walls.
+- operated by Fitherskant, Hutan do all the work
+- crude, rock walls and wooded 
 
 ## Mykos Monastery
 
-In the heart of the forest, Allos monks tend their fungal fields, like introspective and secluded lives, forage in the forest, and make their drugs and smoke their fungi. No desire for contact with the rest of the volume. The Hutan avoid this place as it nullifies their immunities. 
-
-## Somphos
-
-City, decentralized and leaderless. Populated by Fitherskant, some Allos, and Hutan working the markets. Bars in Somphos are always full of drunk and high Fitherskants. Allos drug dealers ply their trade with the Fitherskant. The Allos and the Hutan do not get along.
+In the heart of the forest, Allos monks tend their fungal fields, lead introspective and secluded lives, forage in the forest, and make their drugs and smoke their fungi. No desire for contact with the rest of the volume. The Hutan avoid this place as it nullifies their immunities. 
 
 ## Folk
 
@@ -54,6 +61,8 @@ Reputation: Poor, Introspective
 Immune to magic, consumption of drugs eliminates that immunity.
 
 ### Fitherskant
+
+, famous city builders know across the Down
 
 Concept: Exploit Hutan, Great makers in the domain of Infrastructure
 Appearance: Smells sweet, Wings or feathers
