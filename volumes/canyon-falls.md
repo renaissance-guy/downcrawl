@@ -14,11 +14,11 @@ Canyon Falls
 **Scarce**: Trade, Wealth  
 **Remoteness**: Secret  
 
-There are few entrances, and fewer visitors, to these deep and meandering ravines. Torrents, streams, and dribbles fall thousands of feet from openings far above before flowing along the mesas, walls, and canyon floors. Along the shores of these flows grow Fungi, becoming ever more fecund as the rivers join and widen and eventually enter the City.
+There are few entrances, and fewer visitors, to these deep and meandering ravines. Torrents, streams, and dribbles fall thousands of feet from openings far above before flowing along the mesas, walls, and canyon floors. On the shores of these flows grow Fungi, becoming ever more fecund as the rivers join and widen and eventually enter the City.
 
 No one knows the name of the City. It is merely the City. Its buildings are tall, rounded, metallic, and alien. Sleek, slick, and covered with fungal growth, there are no openings. They are blood-warm to the touch and a faint double pulsing can be felt beneath their surface.
 
-Some say the buildings of the City look alive. Others say they *are* alive. If you look at a building, turn, and look again, sometimes it changes. Sometimes it might even open. But if you dare to enter, hurry, lest you be trapped within.
+Some say the buildings of the City look alive. Others say they *are* alive. If you look at a building, turn, and look again, sometimes it changes. Sometimes it might even open. But if one dares to enter, they should hurry, lest they be trapped within.
 
 Wide canals, glowing with miniature luminescent life, flow through the City, between the buildings, and toward the City's center. Narrow walkways, slick with moisture and growth, follow alongside the canals with an occasional bridge over or set of stairs down to, the water.
 
